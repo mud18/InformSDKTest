@@ -16,7 +16,7 @@ import MediaPlayer
  - Destructing all Widgets
  */
 
-public class INFSDKWidgetManager: NSObject {
+@objc public class INFSDKWidgetManager: NSObject {
     private static var dispatchOnce : dispatch_once_t = 0
     public static let sharedInstance = INFSDKWidgetManager()
     static let buildEnvironment = ""
