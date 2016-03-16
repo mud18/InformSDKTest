@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		h66lDYQg2n1NFVFx3VHX1tcLcEk=
+		0WNlYCT87P7NgUez70LTnRLQu3c=
 		</data>
 		<key>Frameworks/Pods_InformSDK.framework/Info.plist</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Frameworks/Pods_InformSDK.framework/Pods_InformSDK</key>
 		<data>
-		VIQPoC+sgxhp9nvHq9owC34g/dA=
+		hFYHFbjaViC2PaTYfXV7B+SpIAA=
 		</data>
 		<key>Frameworks/Pods_InformSDK.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		Kqw3V4zjUDHP8cD+U3OYTXBv834=
+		i5ze71kToera6mAoFFMvnU6zSVw=
 		</data>
 		<key>Frameworks/Pods_InformSDK.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -30,55 +30,63 @@
 		</data>
 		<key>Frameworks/Pods_InformSDK.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		Zz7HLmMKp8rqlXLdrz9VpsdiZoE=
+		RDkKWHkQSDpLEKLxo917keCLG2Y=
 		</data>
 		<key>Frameworks/libswiftAVFoundation.dylib</key>
 		<data>
-		u00c01nP2HjeI3FfF2utCUn71kw=
+		D2RW9XrOrf0WM90luKMqn41Ot48=
 		</data>
 		<key>Frameworks/libswiftContacts.dylib</key>
 		<data>
-		kPp70uJoj+1ZPf7ruLf9gCDClyI=
+		cB96xNaa23xNVdy500pE5SmgydA=
 		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
-		wJjcgHY+U21pjqjJYgmkgfxrjIo=
+		8n815/A+0nM2/9YV5Okixfy6xlg=
 		</data>
 		<key>Frameworks/libswiftCoreAudio.dylib</key>
 		<data>
-		KubgXvnyryoZuq+PlXJISqOe1gc=
+		2aQ0oE7E3GU8jNK8oOXvtsoC0Xk=
 		</data>
 		<key>Frameworks/libswiftCoreGraphics.dylib</key>
 		<data>
-		T0pJ0y4eBrM65K5sRWzpoGtD8W4=
+		x0BWJN9am+R6ivysTaTSv7ZPLWk=
 		</data>
 		<key>Frameworks/libswiftCoreImage.dylib</key>
 		<data>
-		e20ZJEl/Vv/FB58elPqYLKTGytk=
+		c5OhcQHptixMY6rYuInLm4n/SmE=
 		</data>
 		<key>Frameworks/libswiftCoreMedia.dylib</key>
 		<data>
-		L/2cow5nn9tv31uKn88rQnfynuU=
+		Q2WM0D9gXb0StjhwxqM+0wKI/dk=
 		</data>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<data>
-		STW6veAnNA7d+pBuN65IO6sSnHU=
+		T0iAwX02ZRwKEThPlPNlGLNRtkI=
 		</data>
 		<key>Frameworks/libswiftDispatch.dylib</key>
 		<data>
-		8H46FX0NkA8JZy37SwcQ6zNz/QI=
+		bH+Wc/DJbvyyXENVsF56rgGCMbc=
 		</data>
 		<key>Frameworks/libswiftFoundation.dylib</key>
 		<data>
-		BNWlAOBmWK5BL0cJite5boC5FCs=
+		GCYDPfgeI2h7XUiL7E3ZV9onSrI=
 		</data>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<data>
-		takp9QDv0QyW0O1ISf3IYNo1Pmc=
+		Ub11n7x+KaTNY4cKJwYwmLvgqMg=
 		</data>
 		<key>Frameworks/libswiftUIKit.dylib</key>
 		<data>
-		Zh5SgokNecRb8UeVcPR+A8DSEVQ=
+		Zxq0ukfJfpfY60nO80cBNzn/zvM=
+		</data>
+		<key>Headers/INFSDKWidgetManager.swift</key>
+		<data>
+		SA3V/bx8gL0jtfS7TaH7aNksPSk=
+		</data>
+		<key>Headers/INFSessionsProvider.swift</key>
+		<data>
+		DtsWcTKbOzk9gfIv5wxkGLOGZYY=
 		</data>
 		<key>Headers/InformSDK-Swift.h</key>
 		<data>
@@ -102,7 +110,7 @@
 		</data>
 		<key>Modules/InformSDK.swiftmodule/arm.swiftmodule</key>
 		<data>
-		147MJbCsY9dIlEvllVkjYATPVGk=
+		V/UBDB9eSOasL2y3DS8f6gQzSoU=
 		</data>
 		<key>Modules/InformSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -110,7 +118,7 @@
 		</data>
 		<key>Modules/InformSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		A+Sl4B8NXpbaPhuKY1+QdKTriqk=
+		dm2wNZyMhZA8J8WWx2Kl8O7Ln58=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -125,7 +133,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		h66lDYQg2n1NFVFx3VHX1tcLcEk=
+		0WNlYCT87P7NgUez70LTnRLQu3c=
 		</data>
 		<key>Frameworks/Pods_InformSDK.framework/Info.plist</key>
 		<data>
@@ -133,11 +141,11 @@
 		</data>
 		<key>Frameworks/Pods_InformSDK.framework/Pods_InformSDK</key>
 		<data>
-		VIQPoC+sgxhp9nvHq9owC34g/dA=
+		hFYHFbjaViC2PaTYfXV7B+SpIAA=
 		</data>
 		<key>Frameworks/Pods_InformSDK.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		Kqw3V4zjUDHP8cD+U3OYTXBv834=
+		i5ze71kToera6mAoFFMvnU6zSVw=
 		</data>
 		<key>Frameworks/Pods_InformSDK.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -149,55 +157,63 @@
 		</data>
 		<key>Frameworks/Pods_InformSDK.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		Zz7HLmMKp8rqlXLdrz9VpsdiZoE=
+		RDkKWHkQSDpLEKLxo917keCLG2Y=
 		</data>
 		<key>Frameworks/libswiftAVFoundation.dylib</key>
 		<data>
-		u00c01nP2HjeI3FfF2utCUn71kw=
+		D2RW9XrOrf0WM90luKMqn41Ot48=
 		</data>
 		<key>Frameworks/libswiftContacts.dylib</key>
 		<data>
-		kPp70uJoj+1ZPf7ruLf9gCDClyI=
+		cB96xNaa23xNVdy500pE5SmgydA=
 		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
-		wJjcgHY+U21pjqjJYgmkgfxrjIo=
+		8n815/A+0nM2/9YV5Okixfy6xlg=
 		</data>
 		<key>Frameworks/libswiftCoreAudio.dylib</key>
 		<data>
-		KubgXvnyryoZuq+PlXJISqOe1gc=
+		2aQ0oE7E3GU8jNK8oOXvtsoC0Xk=
 		</data>
 		<key>Frameworks/libswiftCoreGraphics.dylib</key>
 		<data>
-		T0pJ0y4eBrM65K5sRWzpoGtD8W4=
+		x0BWJN9am+R6ivysTaTSv7ZPLWk=
 		</data>
 		<key>Frameworks/libswiftCoreImage.dylib</key>
 		<data>
-		e20ZJEl/Vv/FB58elPqYLKTGytk=
+		c5OhcQHptixMY6rYuInLm4n/SmE=
 		</data>
 		<key>Frameworks/libswiftCoreMedia.dylib</key>
 		<data>
-		L/2cow5nn9tv31uKn88rQnfynuU=
+		Q2WM0D9gXb0StjhwxqM+0wKI/dk=
 		</data>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<data>
-		STW6veAnNA7d+pBuN65IO6sSnHU=
+		T0iAwX02ZRwKEThPlPNlGLNRtkI=
 		</data>
 		<key>Frameworks/libswiftDispatch.dylib</key>
 		<data>
-		8H46FX0NkA8JZy37SwcQ6zNz/QI=
+		bH+Wc/DJbvyyXENVsF56rgGCMbc=
 		</data>
 		<key>Frameworks/libswiftFoundation.dylib</key>
 		<data>
-		BNWlAOBmWK5BL0cJite5boC5FCs=
+		GCYDPfgeI2h7XUiL7E3ZV9onSrI=
 		</data>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<data>
-		takp9QDv0QyW0O1ISf3IYNo1Pmc=
+		Ub11n7x+KaTNY4cKJwYwmLvgqMg=
 		</data>
 		<key>Frameworks/libswiftUIKit.dylib</key>
 		<data>
-		Zh5SgokNecRb8UeVcPR+A8DSEVQ=
+		Zxq0ukfJfpfY60nO80cBNzn/zvM=
+		</data>
+		<key>Headers/INFSDKWidgetManager.swift</key>
+		<data>
+		SA3V/bx8gL0jtfS7TaH7aNksPSk=
+		</data>
+		<key>Headers/INFSessionsProvider.swift</key>
+		<data>
+		DtsWcTKbOzk9gfIv5wxkGLOGZYY=
 		</data>
 		<key>Headers/InformSDK-Swift.h</key>
 		<data>
@@ -217,7 +233,7 @@
 		</data>
 		<key>Modules/InformSDK.swiftmodule/arm.swiftmodule</key>
 		<data>
-		147MJbCsY9dIlEvllVkjYATPVGk=
+		V/UBDB9eSOasL2y3DS8f6gQzSoU=
 		</data>
 		<key>Modules/InformSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -225,7 +241,7 @@
 		</data>
 		<key>Modules/InformSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		A+Sl4B8NXpbaPhuKY1+QdKTriqk=
+		dm2wNZyMhZA8J8WWx2Kl8O7Ln58=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
